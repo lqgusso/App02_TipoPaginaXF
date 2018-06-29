@@ -1,0 +1,9 @@
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/bin/Debug/netstandard2.0/App02_TipoPaginaXF.deps.json
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/bin/Debug/netstandard2.0/App02_TipoPaginaXF.dll
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/bin/Debug/netstandard2.0/App02_TipoPaginaXF.pdb
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.csprojResolveAssemblyReference.cache
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.csproj.CoreCompileInputs.cache
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.AssemblyInfoInputs.cache
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.AssemblyInfo.cs
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.dll
+/Users/lucianogusso/Projects/App02_TipoPaginaXF/App02_TipoPaginaXF/obj/Debug/netstandard2.0/App02_TipoPaginaXF.pdb

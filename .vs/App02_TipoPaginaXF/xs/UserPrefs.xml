@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AFD7BF49-72B2-4619-A55B-84DE8292F8CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App02_TipoPaginaXF/App.xaml.cs">
+    <Files>
+      <File FileName="App02_TipoPaginaXF/MainPage.xaml" Line="5" Column="49" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina1.xaml" Line="13" Column="1" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina1.xaml.cs" Line="1" Column="1" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina2.xaml" Line="7" Column="54" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina2.xaml.cs" Line="1" Column="1" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina3.xaml" Line="14" Column="1" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/TipoPagina3.xaml.cs" Line="1" Column="1" />
+      <File FileName="App02_TipoPaginaXF/App.xaml.cs" Line="15" Column="41" />
+      <File FileName="App02_TipoPaginaXF/TipoPagina/Carrousel/IntroducaoApp.xaml.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App02__TipoPaginaXF.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1CE13FE0-9831-494C-AC47-4FF8FEEB009E" />
+  <MonoDevelop.Ide.ItemProperties.App02__TipoPaginaXF.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
